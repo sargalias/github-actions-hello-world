@@ -1,5 +1,3 @@
 ## Welcome to "Hello World" with GitHub Actions
 
-This course will walk you through writing your first action and using it with a workflow file. 
-
-**Ready to get started? Navigate to the first issue.**
+This repository is the introductory course to GitHub actions, found at [https://lab.github.com/githubtraining/github-actions:-hello-world](https://lab.github.com/githubtraining/github-actions:-hello-world).
